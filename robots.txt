@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-r0kyxu.yoursingles.online/sitemap.xml
